@@ -25,5 +25,18 @@
     "eslint-plugin-react-refresh": "^0.4.6",
     "gh-pages": "^6.1.1",
     "vite": "^5.2.0"
-  }
+  },
+  "description": "",
+  "main": "vite.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EduardoRiedel/e-plantShopping.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EduardoRiedel/e-plantShopping/issues"
+  },
+  "homepage": "https://github.com/EduardoRiedel/e-plantShopping#readme"
 }
